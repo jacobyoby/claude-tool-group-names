@@ -1,3 +1,5 @@
+> **Moved:** this now lives in [jacobrakaiFoundation/claude-mods](https://github.com/jacobrakaiFoundation/claude-mods/tree/main/mods/tool-group-names), maintained by the Jacobrakai Foundation. This repository is archived; the copy here still works but won't get updates.
+
 # tool-group-names
 
 A Claude Code mod that says **which** files sit behind a folded tool line, so you don't have to press ctrl+o on every one:
