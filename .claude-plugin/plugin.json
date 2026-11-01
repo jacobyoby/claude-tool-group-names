@@ -1,0 +1,8 @@
+{
+  "name": "tool-group-names",
+  "version": "0.1.0",
+  "description": "Names the files and patterns under folded tool lines like \"Read 3 files\"",
+  "author": { "name": "jacobyoby" },
+  "license": "MIT",
+  "repository": "https://github.com/jacobyoby/claude-tool-group-names"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "claude-tool-group-names",
+  "owner": { "name": "jacobyoby" },
+  "description": "Claude Code mod that names the files behind folded tool lines like \"Read 3 files\"",
+  "plugins": [{ "name": "tool-group-names", "source": "./" }]
+}
